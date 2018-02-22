@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    background: gray;
+    height: 100px;
+    align-items: center;
+}
+
+.zadanie{
+
+    height: 30px;
+    color:#fff;
+}
+
+.back{
+    margin: 0 auto;
+    height: 50px;
+    width: 50px;
+}
+.back button{
+    height: 50px;
+    width: 150px;
+}
